@@ -12,7 +12,7 @@ It does not uses any martingale based strategy.
 
 It is a scalper that only runs on the 5 minutes timeframe.
 
-It has a 80% to 90% Win ratio on supported symbols
+It has a 80% to 95% Win ratio on supported symbols
 
 It uses a real stop loss and a virtual / invisible stop loss and take profit based on a multiplicator of the current ATR
 
