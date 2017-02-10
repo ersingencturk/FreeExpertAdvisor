@@ -2,7 +2,7 @@
 
 FreeExpertAdvisor is a free and open sourced Forex expert advisor for the Metatrader 4 platform
 
-![FreeExpertAdvisor](http://i.imgur.com/qGxfBZR.png)
+![FreeExpertAdvisor](http://i.imgur.com/AgxfGly.png)
 
 # About
 
